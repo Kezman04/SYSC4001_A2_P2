@@ -3,7 +3,8 @@
 ## Student Info
 **Name:** < Kezi Afulukwe>  
 **Student Number:** <101279214>  
-
+**Name:** < Abubakr Mohammed>  
+**Student Number:** <101287262>  
 ---
 
 ## Description

@@ -6,6 +6,8 @@ int main() {
     while (1) {
         currentVal--;
         printf("Child: %d\n", currentVal);
+        fflush(stdout);
         usleep(400000);
     }
+    return 0;
 }
